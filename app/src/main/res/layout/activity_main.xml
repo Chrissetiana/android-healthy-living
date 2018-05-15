@@ -7,6 +7,7 @@
     tools:context="com.example.android.healthyliving.MainActivity">
 
     <TextView
+        android:id="@+id/display_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
@@ -17,13 +18,13 @@
 
 </android.support.constraint.ConstraintLayout>
 
-<!--
-100 questions
-ex. do you exercise 3 or more times a week
-ex. do you drink less than 2 caffeinated drinks a day
+    <!--
+    100 questions
+    ex. do you exercise 3 or more times a week
+    ex. do you drink less than 2 caffeinated drinks a day
 
-ans
-Y - health level inc 1
-sometimes - health level unchanged
-N - health level dec 1
--->
+    ans
+    Y - health level inc 1
+    sometimes - health level unchanged
+    N - health level dec 1
+    -->
