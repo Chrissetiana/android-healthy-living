@@ -1,4 +1,4 @@
-package com.example.android.healthyliving;
+package com.chrissetiana.android.healthyliving;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void display(String s){
-        TextView t = (TextView)findViewById(R.id.display_text_view);
+        TextView t = findViewById(R.id.display_text_view);
         t.setText(s);
     }
 }

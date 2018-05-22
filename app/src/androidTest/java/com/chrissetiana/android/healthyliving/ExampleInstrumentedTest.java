@@ -1,4 +1,4 @@
-package com.example.android.healthyliving;
+package com.chrissetiana.android.healthyliving;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
