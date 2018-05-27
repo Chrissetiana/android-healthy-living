@@ -1,4 +1,4 @@
-package com.chrissetiana.android.healthyliving;
+package com.chrissetiana.healthyliving;
 
 import org.junit.Test;
 

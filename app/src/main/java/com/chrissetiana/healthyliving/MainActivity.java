@@ -1,4 +1,4 @@
-package com.chrissetiana.android.healthyliving;
+package com.chrissetiana.healthyliving;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
